@@ -52,67 +52,67 @@ phone : +8801641281589
 </div> -->
 
 <div align="center">
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>React</strong></p>
         <img src="https://skillicons.dev/icons?i=react" alt="React" height="40">
     </div>
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>Bootstrap</strong></p>
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40">
     </div>
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>HTML</strong></p>
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40">
     </div>
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>CSS</strong></p>
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40">
     </div>
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>VS Code</strong></p>
         <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40">
     </div>
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>GitHub</strong></p>
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40">
     </div>
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>Figma</strong></p>
         <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40">
     </div>
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>Tailwind CSS</strong></p>
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40">
     </div>
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>Git</strong></p>
         <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40">
     </div>
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>Node.js</strong></p>
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40">
     </div>
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>Python</strong></p>
         <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40">
     </div>
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>JavaScript</strong></p>
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40">
     </div>
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>Firebase</strong></p>
         <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40">
     </div>
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>MongoDB</strong></p>
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40">
     </div>
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>C</strong></p>
         <img src="https://skillicons.dev/icons?i=c" alt="C" height="40">
     </div>
-    <div>
+    <div style="display: inline-block; margin: 10px;">
         <p><strong>C++</strong></p>
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40">
     </div>
