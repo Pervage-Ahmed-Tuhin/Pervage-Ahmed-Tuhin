@@ -10,15 +10,19 @@
 
 <br />
 
-<h3>About Me</h3>
+<h3>About Me :</h3>
 <div align="center">
 Greetings, I'm Pervaj Ahmed Tuhin, a dedicated Front End developer with a primary focus on React JS. My passion lies in crafting and implementing diverse features and functionalities within my projects. Eager to expand my expertise, I continually seek opportunities to learn and evolve, staying abreast of industry trends. Currently pursuing a Bachelor's degree in Computer Science at Leading University, Sylhet, Bangladesh.
 My contact information is :
 Email : Parvageahmedtuhin123456@gmail.com
 phone : +8801641281589
-🌱 I’m currently learning Algorithm, Front-End Development, Database, and Express
+
 </div>
 
+<h3>Currently exploring :</h3>
+<div>
+    🌱 I’m currently learning Algorithm, Front-End Development, Database, and Express
+</div>
 <div align="center">
     <a href="mailto:pervajahmedtuhin123456@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
