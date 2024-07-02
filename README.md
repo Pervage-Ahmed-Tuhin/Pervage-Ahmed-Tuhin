@@ -50,74 +50,7 @@ phone : +8801641281589
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,c,cpp" /><br>
 </div> -->
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>React</strong></p>
-        <img src="https://skillicons.dev/icons?i=react" alt="React" height="40">
-    </div>
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>Bootstrap</strong></p>
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40">
-    </div>
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>HTML</strong></p>
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40">
-    </div>
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>CSS</strong></p>
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40">
-    </div>
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>VS Code</strong></p>
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40">
-    </div>
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>GitHub</strong></p>
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40">
-    </div>
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>Figma</strong></p>
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40">
-    </div>
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>Tailwind CSS</strong></p>
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40">
-    </div>
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>Git</strong></p>
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40">
-    </div>
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>Node.js</strong></p>
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40">
-    </div>
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>Python</strong></p>
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40">
-    </div>
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>JavaScript</strong></p>
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40">
-    </div>
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>Firebase</strong></p>
-        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40">
-    </div>
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>MongoDB</strong></p>
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40">
-    </div>
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>C</strong></p>
-        <img src="https://skillicons.dev/icons?i=c" alt="C" height="40">
-    </div>
-    <div style="margin: 10px;">
-        <p style="text-align: center;"><strong>C++</strong></p>
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40">
-    </div>
-</div>
-
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 
 <br />
