@@ -50,8 +50,8 @@ phone : +8801641281589
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,c,cpp" /><br>
 </div> -->
+
 <div align="center">
-    
     <div>
         <p><strong>React</strong></p>
         <img src="https://skillicons.dev/icons?i=react" alt="React" height="40">
@@ -88,8 +88,6 @@ phone : +8801641281589
         <p><strong>Git</strong></p>
         <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40">
     </div>
-    
- 
     <div>
         <p><strong>Node.js</strong></p>
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40">
@@ -119,6 +117,7 @@ phone : +8801641281589
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40">
     </div>
 </div>
+
 
 <br />
 <hr />
