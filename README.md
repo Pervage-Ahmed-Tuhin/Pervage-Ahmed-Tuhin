@@ -10,12 +10,13 @@
 
 <br />
 
+<h3>About Me</h3>
 <div align="center">
-    🌱 I’m currently learning Algorithm, Front-End Development, Database, and Express
-
-    💬 Ask me about **Data Structure, React, Firebase... or anything [here](https://github.com/Pervage-Ahmed-Tuhin)**
-
-    ⚡ Fun fact **Did you know that the first website ever created is still online? It was created by Tim Berners-Lee, the inventor of the World Wide Web, and went live on August 6, 1991. You can visit it [here](http://info.cern.ch/hypertext/WWW/TheProject.html).**
+Greetings, I'm Pervaj Ahmed Tuhin, a dedicated Front End developer with a primary focus on React JS. My passion lies in crafting and implementing diverse features and functionalities within my projects. Eager to expand my expertise, I continually seek opportunities to learn and evolve, staying abreast of industry trends. Currently pursuing a Bachelor's degree in Computer Science at Leading University, Sylhet, Bangladesh.
+My contact information is :
+Email : Parvageahmedtuhin123456@gmail.com
+phone : +8801641281589
+🌱 I’m currently learning Algorithm, Front-End Development, Database, and Express
 </div>
 
 <div align="center">
