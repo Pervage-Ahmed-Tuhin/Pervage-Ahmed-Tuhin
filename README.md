@@ -23,6 +23,11 @@ phone : +8801641281589
 <div>
     🌱 I’m currently learning Algorithm, Front-End Development, Database, and Express
 </div>
+
+<hr />
+
+<h3 align="left">Connect with me:</h3>
+
 <div align="center">
     <a href="mailto:pervajahmedtuhin123456@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -32,13 +37,10 @@ phone : +8801641281589
     </a>
 </div>
 
-<hr />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
     <a href="mailto:pervajahmedtuhin123456@gmail.com">Tuhin Gmail</a> |
     <a href="https://www.linkedin.com/in/pervaj-ahmed-tuhin">LinkedIn</a>
-</p>
+</p> -->
 
 <hr />
 
