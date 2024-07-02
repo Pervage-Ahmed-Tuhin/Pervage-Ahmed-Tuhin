@@ -56,7 +56,8 @@ phone : +8801641281589
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
+<div align="center">
+    
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badarhossain1&show_icons=true&locale=en&layout=compact" alt="badarhossain1" />
 </p>
@@ -69,6 +70,7 @@ phone : +8801641281589
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pervage-Ahmed-Tuhin&" alt="tuhin" />
 </p>
 
+</div>
 <br /><br />
 
 <hr />
