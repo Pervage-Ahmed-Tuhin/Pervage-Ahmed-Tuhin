@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/155245666?s=400&u=d85cda4f0895047064c8bb25cd29e3dbc5623251&v=4" alt="TPervaj-Ahmed-Tuhin" />
+    <img src="https://i.ibb.co/cJjcnMm/Black-Modern-Vlogger-You-Tube-Banner.png" alt="TPervaj-Ahmed-Tuhin" />
 </p>
 
 <h1 align="center">
