@@ -56,7 +56,7 @@ phone : +8801641281589
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
+<div align="center" display="flex">
     
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badarhossain1&show_icons=true&locale=en&layout=compact" alt="badarhossain1" />
