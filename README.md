@@ -56,16 +56,20 @@ phone : +8801641281589
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center" display="flex">
+<div align="center">
     
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badarhossain1&show_icons=true&locale=en&layout=compact" alt="badarhossain1" />
-</p>
+
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Pervage-Ahmed-Tuhin&show_icons=true&locale=en" alt="tuhin" />
 </p>
 
+<h2>Language Used :</h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badarhossain1&show_icons=true&locale=en&layout=compact" alt="badarhossain1" />
+</p>
+
+<h2>Daily Steak :</h2>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pervage-Ahmed-Tuhin&" alt="tuhin" />
 </p>
